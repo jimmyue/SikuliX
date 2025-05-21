@@ -1,5 +1,5 @@
 # https://blog.csdn.net/abu935009066/article/details/131328693
-
+# SikulixIDE执行代码
 import test # 导入同目录python脚本(PYTHON的包sikulix不能直接导入，所以要用python写)
 
 # 调用特定函数并传参
