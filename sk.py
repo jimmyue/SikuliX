@@ -4,7 +4,7 @@ import test # 导入同目录python脚本(PYTHON的包sikulix不能直接导入�
 
 # 调用特定函数并传参
 result_add = test.int_add("5","4")
-result_str=test.str_add("ca", "lc")
+result_str = test.str_add("ca", "lc")
 print(result_add,result_str)     
 
 # 操作计算器计算
